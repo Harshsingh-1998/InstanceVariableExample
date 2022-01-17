@@ -1,0 +1,7 @@
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\bin\Debug\TaxCalculation.exe.config
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\bin\Debug\TaxCalculation.exe
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\bin\Debug\TaxCalculation.pdb
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\obj\Debug\TaxCalculation.csproj.AssemblyReference.cache
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\obj\Debug\TaxCalculation.csproj.CoreCompileInputs.cache
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\obj\Debug\TaxCalculation.exe
+D:\01 Harsh\Codebetter\C#\C# Assignments\InstanceVariableProgram\TaxCalculation\obj\Debug\TaxCalculation.pdb
